@@ -35,6 +35,6 @@ const wizard = new Wizard('Merlin', 15);
 
 wizard.introduce('I am the mighty wizard'); // I am the mighty wizard, Merlin
 wizard.castSpell(); // Casting a spell, behold my power!
-wizard.levelUp();  // Level up! New level is 16
+wizard.levelUp();  // Level up! The New level is 16
 
 export {};
